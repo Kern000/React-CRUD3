@@ -1,0 +1,26 @@
+[   
+    {
+        "id":1,
+        "description": "Breakfast",
+        "expenseAmount": 400,
+        "reconciled": false    
+    },
+    {
+        "id":2,
+        "description": "Lunch",
+        "expenseAmount": 500,
+        "reconciled": false    
+    },
+    {
+        "id":3,
+        "description": "Dinner",
+        "expenseAmount": 600,
+        "reconciled": false    
+    },
+    {
+        "id":4,
+        "description": "Top up petrol",
+        "expenseAmount": 200,
+        "reconciled": false    
+    }
+]
